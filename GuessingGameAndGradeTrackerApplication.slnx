@@ -1,7 +1,9 @@
 <Solution>
   <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
     <File Path="GradeTracker.cs" />
     <File Path="NumberGuessingGame.cs" />
   </Folder>
+  <Project Path="../GuessingGameAndGradeTrackerTests/GuessingGameAndGradeTrackerTests.csproj" Id="31dfe858-923c-4f1f-bbe8-ca8b4ae428d7" />
   <Project Path="GuessingGameAndGradeTrackerApplication.csproj" />
 </Solution>
