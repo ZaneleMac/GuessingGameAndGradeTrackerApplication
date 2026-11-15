@@ -9,7 +9,7 @@ A modular C# console application containing a Number Guessing Game and a Student
 
 ## How to Run
 1. Open the solution in **Visual Studio**.
-2. Set `ZhuwaAssignment` as the Startup Project.
+2. Set GuessingGameAndGradeTrackerApplication as the Startup Project.
 3. Press `Ctrl + F5` to build and run the application.
 
 ### Running via .NET CLI
